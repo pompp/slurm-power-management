@@ -1,0 +1,11 @@
+  Api_age:       0
+  Api_current:   28
+  Api_revision:  0
+  Major:         14
+  Meta:          1
+  Micro:         6
+  Minor:         11
+  Name:          slurm
+  Release:       1
+  Release_tags:  dist
+  Version:       14.11.6

@@ -1,0 +1,3 @@
+#define TOTAL_POWER_LIMIT (550)
+#define EN_POWER_LIMUT 1
+//#define EN_POWER_LIMUT 0
